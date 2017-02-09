@@ -1,0 +1,11 @@
+div.before {
+  float: left;
+  border-color: red;
+}
+div.during {
+  float:left;
+}
+div.after {
+  float: left;
+  border-color: red;
+}
