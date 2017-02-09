@@ -14,4 +14,5 @@ div.after {
 }
 .my-class {
   border: 2px solid blue;
+  padding: 4px;
 }
