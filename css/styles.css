@@ -1,11 +1,17 @@
 div.before {
   float: left;
-  border-color: red;
+
+  text-align: center;
 }
 div.during {
   float:left;
+
+  text-align: center;
 }
 div.after {
   float: left;
-  border-color: red;
+  text-align: center;
+}
+.my-class {
+  border: 2px solid blue;
 }
